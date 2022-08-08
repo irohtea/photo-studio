@@ -1,5 +1,5 @@
 # photo studio  
- photo studio landing page  
+ A simple photo studio landing
  Features: 
    * Adaptive layout (up to 320)
    * BEM
